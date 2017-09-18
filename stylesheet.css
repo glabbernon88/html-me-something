@@ -4,12 +4,31 @@ body {
 figcaption{
     font-size: 11px;
 }
-div{
+#webpagetitle{
     text-align: center;
+    border: 1px solid black;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: lightgoldenrodyellow;   
 }
 p {
     text-align: justify;
+    padding-left: 25px;
+    padding-right: 25px;
+    
 }
 h1{
-    font-family: Times;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    padding-top: 20px;
+}
+.summary{
+    font-style: italic;
+    text-align:center;
 }
